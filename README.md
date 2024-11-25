@@ -56,7 +56,7 @@ These are Python functions handling HTTP requests. Controllers are defined for s
 1. Run the application:
 
    ```bash
-   -python Servwr.py (5000 port)
+   -python Server.py (5000 port)
    -python app.py (5000 port)
    ```
 
